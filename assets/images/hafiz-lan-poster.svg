@@ -1,0 +1,45 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="720" rx="34" fill="#050816"/>
+  <g opacity="0.5">
+    <path d="M0 120H1280" stroke="#1E293B" stroke-width="1"/>
+    <path d="M0 240H1280" stroke="#1E293B" stroke-width="1"/>
+    <path d="M0 360H1280" stroke="#1E293B" stroke-width="1"/>
+    <path d="M0 480H1280" stroke="#1E293B" stroke-width="1"/>
+    <path d="M0 600H1280" stroke="#1E293B" stroke-width="1"/>
+    <path d="M200 0V720" stroke="#1E293B" stroke-width="1"/>
+    <path d="M400 0V720" stroke="#1E293B" stroke-width="1"/>
+    <path d="M600 0V720" stroke="#1E293B" stroke-width="1"/>
+    <path d="M800 0V720" stroke="#1E293B" stroke-width="1"/>
+    <path d="M1000 0V720" stroke="#1E293B" stroke-width="1"/>
+  </g>
+  <circle cx="250" cy="170" r="120" fill="url(#paint0_radial)" fill-opacity="0.8"/>
+  <circle cx="1040" cy="520" r="160" fill="url(#paint1_radial)" fill-opacity="0.7"/>
+  <rect x="150" y="300" width="220" height="150" rx="24" fill="#0F172A" stroke="#1E293B"/>
+  <rect x="200" y="260" width="120" height="24" rx="10" fill="#1E293B"/>
+  <rect x="178" y="466" width="164" height="18" rx="9" fill="#1E293B"/>
+  <rect x="760" y="260" width="220" height="150" rx="24" fill="#0F172A" stroke="#1E293B"/>
+  <rect x="820" y="208" width="100" height="24" rx="10" fill="#1E293B"/>
+  <rect x="190" y="520" width="180" height="28" rx="14" fill="#0F172A" stroke="#1E293B"/>
+  <rect x="910" y="520" width="180" height="28" rx="14" fill="#0F172A" stroke="#1E293B"/>
+  <path d="M370 365H760" stroke="#60A5FA" stroke-width="3" stroke-dasharray="8 12"/>
+  <path d="M430 230L520 350L610 230" stroke="#22D3EE" stroke-width="3" stroke-dasharray="8 12"/>
+  <path d="M520 350V520" stroke="#A78BFA" stroke-width="3" stroke-dasharray="8 12"/>
+  <circle cx="520" cy="350" r="18" fill="#22D3EE"/>
+  <circle cx="370" cy="365" r="12" fill="#60A5FA"/>
+  <circle cx="760" cy="365" r="12" fill="#60A5FA"/>
+  <circle cx="520" cy="520" r="12" fill="#A78BFA"/>
+  <path d="M100 330C150 260 240 260 300 330" stroke="#38BDF8" stroke-width="10" stroke-linecap="round" opacity="0.7"/>
+  <path d="M980 330C1030 260 1120 260 1180 330" stroke="#8B5CF6" stroke-width="10" stroke-linecap="round" opacity="0.7"/>
+  <text x="470" y="120" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="5">HAFIZ LAN</text>
+  <text x="510" y="165" fill="#93C5FD" font-family="Arial, sans-serif" font-size="22" letter-spacing="8">CONNECT • LEARN • BUILD</text>
+  <defs>
+    <radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(250 170) rotate(90) scale(120)">
+      <stop stop-color="#3B82F6" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="paint1_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1040 520) rotate(90) scale(160)">
+      <stop stop-color="#8B5CF6" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>
